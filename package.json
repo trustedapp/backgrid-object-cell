@@ -1,0 +1,26 @@
+{
+  "name": "backgrid-object-cell",
+  "version": "0.0.1",
+  "description": "Backgrid.js extension to extend the core SelectCell using select2.",
+  "main": "backgrid-object-cell.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/trustedapp/backgrid-object-cell.git"
+  },
+  "keywords": [
+    "backbone",
+    "backgrid"
+  ],
+  "author": "",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/trustedapp/backgrid-object-cell/issues"
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+    "backgrid": "~0.3.7",
+    "underscore": "^1.8.3"
+  }
+}
